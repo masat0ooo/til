@@ -49,3 +49,8 @@ spec:
 
 ```
 
+
+```sh
+podman play kube /path/to/yaml-file.yaml
+
+```
